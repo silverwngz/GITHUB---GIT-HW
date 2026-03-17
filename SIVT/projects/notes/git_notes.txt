@@ -1,0 +1,10 @@
+The most important git commands are listed below.
+
+- git init => This command is used to either create an empty Git repository or reinitialize an existing one.
+- git add => This command instructs Git to track changes made to a specific file. 
+- git branch => This command is used to view branches.
+- git checkout => You can use this command to switch between branches.
+- git status => This command allows you to view the current state of the repository.
+
+
+LAST UPDATED : 03/17/2026
