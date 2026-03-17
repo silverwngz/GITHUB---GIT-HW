@@ -1,0 +1,11 @@
+The name is self-explanatory. Below are all the topics we've covered in this seminar so far.
+
+This school year, we've managed to cover the following topics:
+- Operating Systems (From 09/02/2025 to 09/16/2025)
+- Programming languages (From 09/23/2025 to 09/30/2025)
+- C++ (From 10/07/2025 to 12/02/2025)
+- OOP: Objective-Oriented Programming (From 12/02/2025 to 01/27/2026)
+- Version Control Systems (From 02/03/2026 to 02/24/2026)
+- Web creation (From 03/03/2026 to the present date)
+
+LAST UPDATED : 03/17/2026
