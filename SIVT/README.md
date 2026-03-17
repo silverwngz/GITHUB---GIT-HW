@@ -11,6 +11,7 @@ Just kidding, I've never had any. I run on pure, yet somehow structured, chaos, 
 ⚠ NO STUDENTS WERE HARMED IN THE CREATION OF THIS REPOSITORY! 
 - Maybe just their brain cells.
 
+Oh, also! The main sponsor of this project is my hamster in gladiator mode on a toilet paper roll half his size.
 
 LAST UPDATED : 03/17/2026
 WRITTEN BY : silverwngz
