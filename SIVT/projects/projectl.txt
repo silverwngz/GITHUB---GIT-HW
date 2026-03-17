@@ -1,12 +1,1 @@
-Here's what I've created so far:
-
-- This repository, for instance, is clearly an example of that.
-
-
-
-
-Here's what I'm still planning to create:
-- I plan on creating some sort of silly website. It might even be functional if I ever learn JavaScript.
-
-
-LAST UPDATED : 03/17/2026
+Dear Lord, I hope these commit titles are sensible. 🙏
